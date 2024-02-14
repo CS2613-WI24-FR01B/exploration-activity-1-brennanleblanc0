@@ -1,5 +1,4 @@
 from sympy import *
-from matplotlib import *
 
 t, T, n, A = symbols('t T n A')
 init_printing(use_unicode=True)
