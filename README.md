@@ -44,7 +44,7 @@ f(t)
 \end{cases}
 ```
 
-Now, for it to be recognized, we must use the `Piecewise()` function during our input. Each piece, passed as an argument to the `Piecewise()` function, will follow the format `(value, cond)`. Conditions must writin like logic statements, with "and" represented as `&` and "or" represented as `|`.
+Now, for it to be recognized, we must use the `Piecewise()` function during our input. Each piece, passed as an argument to the `Piecewise()` function, will follow the format `(value, cond)`. Conditions must written like logic statements, with "and" represented as `&` and "or" represented as `|`.
 
 To enter this in the program, we will do it as follows:
 
