@@ -35,14 +35,14 @@ Which gives us the resulting output:
 
 For this function, we have a piecewise function, denoted as follows. We will also use a value of A = 10 and T = 2
 
-$$
+```math
 f(t)
-= 
+=
 \begin{cases}
 0 \text{ if } 0 \leqslant t < \frac{T}{2}\\
 \frac{2A}{T}t - A \text{ if } \frac{T}{2} \leqslant t < T
 \end{cases}
-$$
+```
 
 Now, for it to be recognized, we must use the `Piecewise()` function during our input. Each piece, passed as an argument to the `Piecewise()` function, will follow the format `(value, cond)`. Conditions must writin like logic statements, with "and" represented as `&` and "or" represented as `|`.
 
