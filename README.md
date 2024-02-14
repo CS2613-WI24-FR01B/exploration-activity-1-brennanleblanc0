@@ -18,13 +18,13 @@ Multiple functions may be calculated in one session. When you are ready to stop,
 ## Test Cases
 
 ### Test Case 1
-![Graph of a periodic signal](image-1.png)
+![Graph of a periodic signal](images/image-1.png)
 
 For this function, which is f(t) = -2At/T + A, we will use A = 5 and T = 4.
 
 This is entered into the program as follows:
-![Example input](image-2.png)
+![Example input](images/image-2.png)
 
 Which gives us the resulting output:
-![Example output](image-3.png)
+![Example output](images/image-3.png)
 
