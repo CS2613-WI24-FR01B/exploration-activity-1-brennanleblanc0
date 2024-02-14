@@ -23,8 +23,10 @@ Multiple functions may be calculated in one session. When you are ready to stop,
 For this function, which is f(t) = -2At/T + A, we will use A = 5 and T = 4.
 
 This is entered into the program as follows:
+
 ![Example input](images/image-2.png)
 
 Which gives us the resulting output:
+
 ![Example output](images/image-3.png)
 
