@@ -9,6 +9,10 @@ All calculations are done through the Python library SymPy. The variables that m
 
 ## Usage
 
+Before first run, you must make sure you have SymPy installed. This can be done by invoking one of the following:
+
+`pip3 install sympy` or `python3 -m pip install sympy`
+
 The program is started by invoking `python3 main.py`
 
 Functions can be entered as a mathematical formula, with variables being allowed. Piecewise functions may also be entered (see Test Case 2). The function must follow SymPy's syntax for expressions (which, for the most part, is just Python's syntax). You are then prompted to enter your choice of A and T. Afterwards, your coefficients will be calculated.
